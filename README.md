@@ -2,6 +2,7 @@
 # Thincs To Do
 A simple App to put down your **`ideas`** and **`thoughts`**.
 
+![alt text](https://github.com/drivecrux/ThincsToDo/blob/master/Screenshot.PNG)
 
 In the project directory, you can run:
 
