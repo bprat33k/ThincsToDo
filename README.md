@@ -2,12 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Thincs To Do
 
-A simple App to put down your ideas and thoughts.
+A simple App to put down your **`ideas`** and **`thoughts`**.
 
 ---
-
-
-## Available Scripts
 
 In the project directory, you can run:
 
